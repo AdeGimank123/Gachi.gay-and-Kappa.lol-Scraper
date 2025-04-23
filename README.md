@@ -1,2 +1,7 @@
 # Gachi.lol-and-Kappa.lol-Scraper
-Mencari file yang diunggah di Kappa.lol dan Gachi.gay dengan menggunakan ID acak.
+Sebuah skrip sederhana Python untuk mencari file yang diunggah di Kappa.lol dan Gachi.gay dengan menggunakan ID acak.
+
+Persyaratan :
+
+pip install requests
+pip install coloramay
