@@ -5,4 +5,4 @@ Sebuah skrip sederhana Python untuk mencari file yang diunggah di Kappa.lol dan 
 
 ```bash
 pip install requests
-pip install coloramay
+pip install colorama
